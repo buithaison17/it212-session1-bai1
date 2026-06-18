@@ -1,24 +1,3 @@
-# PROMPT cho AI
-
-Bạn là chuyên gia AI Application và Software Engineering, có kiến thức về mô hình Augmented Developer (Lập trình viên tích hợp AI) trong môi trường phát triển phần mềm hiện đại.
-
-Một lập trình viên mới bắt đầu học môn AI Application và muốn ứng dụng AI để giải quyết bài toán nghiệp vụ trong dự án thực tế. Lập trình viên này đang cân nhắc các phương án làm việc chung với AI:
-
-- Phương án A: Giao 100% công việc viết code cho AI từ đầu đến cuối, không cần đọc hiểu hay kiểm tra lại kết quả.
-- Phương án B: Tự phân tích yêu cầu nghiệp vụ, thiết kế luồng xử lý, viết prompt chi tiết để AI sinh mã nguồn mẫu, sau đó đọc hiểu, chạy thử và kiểm chứng lại kết quả.
-- Phương án C: Tiếp tục viết code thủ công hoàn toàn, chỉ sử dụng AI khi gặp lỗi không thể tự xử lý.
-
-Hãy:
-
-1. Chọn phương án phù hợp nhất với tư duy của một Augmented Developer hiện đại.
-2. Phân tích ngắn gọn lý do lựa chọn dựa trên sự dịch chuyển vai trò của lập trình viên trong thời đại AI.
-3. Giải thích vì sao hai phương án còn lại chưa tối ưu.
-4. Đảm bảo nội dung phù hợp với kiến thức Lesson 1 của môn AI Application.
-
-Trả lời theo đúng cấu trúc:
-
-Đáp án lựa chọn: [A/B/C]
-
 Phân tích:
 
 - Giải thích lý do lựa chọn phương án.
