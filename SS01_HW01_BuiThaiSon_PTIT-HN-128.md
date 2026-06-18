@@ -1,19 +1,3 @@
-Phân tích:
-
-- Giải thích lý do lựa chọn phương án.
-- Giải thích vì sao phương án còn lại chưa tối ưu.
-- Độ dài khoảng 2–3 đoạn văn ngắn.
-
-Đầu ra:
-
-- Viết bằng tiếng Việt.
-- Ngắn gọn, rõ ràng, dễ hiểu.
-- Mang tính học thuật phù hợp để nộp bài tập.
-- Không trình bày dạng gạch đầu dòng quá dài.
-- Nhấn mạnh vai trò của lập trình viên trong việc phân tích, định hướng, kiểm chứng và xác thực kết quả do AI tạo ra.
-
-# Kết quả
-
 Đáp án lựa chọn: B
 
 Phân tích:
